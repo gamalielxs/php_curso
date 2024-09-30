@@ -1,4 +1,3 @@
 <?php
     echo "hola mundo";
-    echo "segunda clase"
-    
+    echo "segunda clase prueba 2";
